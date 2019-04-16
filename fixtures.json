@@ -2,7 +2,7 @@
   {
     "id": "00",
     "team1": "gb",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "The Oval, London",
     "time": "2019-05-30 09:30:00"
   },
@@ -30,7 +30,7 @@
   {
     "id": "04",
     "team1": "bd",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "The Oval, London",
     "time": "2019-06-02 09:30:00"
   },
@@ -51,7 +51,7 @@
   {
     "id": "07",
     "team1": "in",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "Rose Bowl, Southampton",
     "time": "2019-06-05 09:30:00"
   },
@@ -99,7 +99,7 @@
   },
   {
     "id": "14",
-    "team1": "zf",
+    "team1": "za",
     "team2": "wi",
     "stadium": "Rose Bowl, Southampton",
     "time": "2019-06-10 09:30:00"
@@ -142,7 +142,7 @@
   {
     "id": "20",
     "team1": "af",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "Sophia Gardens, Cardiff",
     "time": "2019-06-15 12:30:00"
   },
@@ -170,7 +170,7 @@
   {
     "id": "24",
     "team1": "nz",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "Edgbaston, Birmingham",
     "time": "2019-06-19 09:30:00"
   },
@@ -205,7 +205,7 @@
   {
     "id": "29",
     "team1": "pk",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "Lord's, London",
     "time": "2019-06-23 09:30:00"
   },
@@ -239,7 +239,7 @@
   },
   {
     "id": "34",
-    "team1": "zf",
+    "team1": "za",
     "team2": "lk",
     "stadium": "Riverside Ground, Chester-le-Street",
     "time": "2019-06-28 09:30:00"
@@ -310,7 +310,7 @@
   {
     "id": "44",
     "team1": "au",
-    "team2": "zf",
+    "team2": "za",
     "stadium": "Old Trafford, Manchester",
     "time": "2019-07-06 12:30:00"
   }
