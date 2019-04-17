@@ -6,16 +6,18 @@
     "stadium": "to",
     "time": "2019-05-30 09:30:00Z",
     "result": "",
-    "cricinfo": "1144483"
+    "cricinfo": "1144483",
+    "winner": "1"
   },
   {
     "id": "01",
     "team1": "pk",
     "team2": "wi",
-    "stadium": "Naeem stadium",
+    "stadium": "tb",
     "time": "2019-05-31 09:30:00Z",
     "result": "",
-    "cricinfo": "1144484"
+    "cricinfo": "1144484",
+    "winner": "1"
   },
   {
     "id": "02",
@@ -24,7 +26,8 @@
     "stadium": "sg",
     "time": "2019-06-01 09:30:00Z",
     "result": "",
-    "cricinfo": "1144485"
+    "cricinfo": "1144485",
+    "winner": "1"
   },
   {
     "id": "03",
@@ -33,7 +36,8 @@
     "stadium": "cg",
     "time": "2019-06-01 12:30:00Z",
     "result": "",
-    "cricinfo": "1144486"
+    "cricinfo": "1144486",
+    "winner": "1"
   },
   {
     "id": "04",
@@ -42,7 +46,8 @@
     "stadium": "to",
     "time": "2019-06-02 09:30:00Z",
     "result": "",
-    "cricinfo": "1144487"
+    "cricinfo": "1144487",
+    "winner": "1"
   },
   {
     "id": "05",
@@ -51,7 +56,8 @@
     "stadium": "tb",
     "time": "2019-06-03 09:30:00Z",
     "result": "",
-    "cricinfo": "1144488"
+    "cricinfo": "1144488",
+    "winner": "1"
   },
   {
     "id": "06",
@@ -60,7 +66,8 @@
     "stadium": "sg",
     "time": "2019-06-04 09:30:00Z",
     "result": "",
-    "cricinfo": "1144489"
+    "cricinfo": "1144489",
+    "winner": "1"
   },
   {
     "id": "07",
@@ -69,7 +76,8 @@
     "stadium": "rb",
     "time": "2019-06-05 09:30:00Z",
     "result": "",
-    "cricinfo": "1144490"
+    "cricinfo": "1144490",
+    "winner": "1"
   },
   {
     "id": "08",
@@ -78,7 +86,8 @@
     "stadium": "to",
     "time": "2019-06-05 12:30:00Z",
     "result": "",
-    "cricinfo": "1144491"
+    "cricinfo": "1144491",
+    "winner": "1"
   },
   {
     "id": "09",
@@ -87,7 +96,8 @@
     "stadium": "tb",
     "time": "2019-06-06 09:30:00Z",
     "result": "",
-    "cricinfo": "1144492"
+    "cricinfo": "1144492",
+    "winner": "1"
   },
   {
     "id": "10",
@@ -96,7 +106,8 @@
     "stadium": "cg",
     "time": "2019-06-07 09:30:00Z",
     "result": "",
-    "cricinfo": "1144493"
+    "cricinfo": "1144493",
+    "winner": "1"
   },
   {
     "id": "11",
@@ -105,7 +116,8 @@
     "stadium": "sg",
     "time": "2019-06-08 09:30:00Z",
     "result": "",
-    "cricinfo": "1144494"
+    "cricinfo": "1144494",
+    "winner": "1"
   },
   {
     "id": "12",
@@ -114,7 +126,8 @@
     "stadium": "ct",
     "time": "2019-06-08 12:30:00Z",
     "result": "",
-    "cricinfo": "1144495"
+    "cricinfo": "1144495",
+    "winner": "1"
   },
   {
     "id": "13",
@@ -123,7 +136,8 @@
     "stadium": "to",
     "time": "2019-06-09 09:30:00Z",
     "result": "",
-    "cricinfo": "1144496"
+    "cricinfo": "1144496",
+    "winner": "1"
   },
   {
     "id": "14",
@@ -132,7 +146,8 @@
     "stadium": "rb",
     "time": "2019-06-10 09:30:00Z",
     "result": "",
-    "cricinfo": "1144497"
+    "cricinfo": "1144497",
+    "winner": "1"
   },
   {
     "id": "15",
@@ -141,7 +156,8 @@
     "stadium": "cg",
     "time": "2019-06-11 09:30:00Z",
     "result": "",
-    "cricinfo": "1144498"
+    "cricinfo": "1144498",
+    "winner": "1"
   },
   {
     "id": "16",
@@ -150,7 +166,8 @@
     "stadium": "ct",
     "time": "2019-06-12 09:30:00Z",
     "result": "",
-    "cricinfo": "1144499"
+    "cricinfo": "1144499",
+    "winner": "1"
   },
   {
     "id": "17",
@@ -159,7 +176,8 @@
     "stadium": "tb",
     "time": "2019-06-13 09:30:00Z",
     "result": "",
-    "cricinfo": "1144500"
+    "cricinfo": "1144500",
+    "winner": "1"
   },
   {
     "id": "18",
@@ -168,7 +186,8 @@
     "stadium": "rb",
     "time": "2019-06-14 09:30:00Z",
     "result": "",
-    "cricinfo": "1144501"
+    "cricinfo": "1144501",
+    "winner": "1"
   },
   {
     "id": "19",
@@ -177,7 +196,8 @@
     "stadium": "to",
     "time": "2019-06-15 09:30:00Z",
     "result": "",
-    "cricinfo": "1144502"
+    "cricinfo": "1144502",
+    "winner": "1"
   },
   {
     "id": "20",
@@ -186,7 +206,8 @@
     "stadium": "sg",
     "time": "2019-06-15 12:30:00Z",
     "result": "",
-    "cricinfo": "1144503"
+    "cricinfo": "1144503",
+    "winner": "1"
   },
   {
     "id": "21",
@@ -195,7 +216,8 @@
     "stadium": "ot",
     "time": "2019-06-16 09:30:00Z",
     "result": "",
-    "cricinfo": "1144504"
+    "cricinfo": "1144504",
+    "winner": "1"
   },
   {
     "id": "22",
@@ -204,7 +226,8 @@
     "stadium": "ct",
     "time": "2019-06-17 09:30:00Z",
     "result": "",
-    "cricinfo": "1144505"
+    "cricinfo": "1144505",
+    "winner": "1"
   },
   {
     "id": "23",
@@ -213,7 +236,8 @@
     "stadium": "ot",
     "time": "2019-06-18 09:30:00Z",
     "result": "",
-    "cricinfo": "1144506"
+    "cricinfo": "1144506",
+    "winner": "1"
   },
   {
     "id": "24",
@@ -222,7 +246,8 @@
     "stadium": "eb",
     "time": "2019-06-19 09:30:00Z",
     "result": "",
-    "cricinfo": "1144507"
+    "cricinfo": "1144507",
+    "winner": "1"
   },
   {
     "id": "25",
@@ -231,7 +256,8 @@
     "stadium": "tb",
     "time": "2019-06-20 09:30:00Z",
     "result": "",
-    "cricinfo": "1144508"
+    "cricinfo": "1144508",
+    "winner": "1"
   },
   {
     "id": "26",
@@ -240,7 +266,8 @@
     "stadium": "hl",
     "time": "2019-06-21 09:30:00Z",
     "result": "",
-    "cricinfo": "1144509"
+    "cricinfo": "1144509",
+    "winner": "1"
   },
   {
     "id": "27",
@@ -249,7 +276,8 @@
     "stadium": "rb",
     "time": "2019-06-22 09:30:00Z",
     "result": "",
-    "cricinfo": "1144510"
+    "cricinfo": "1144510",
+    "winner": "1"
   },
   {
     "id": "28",
@@ -258,7 +286,8 @@
     "stadium": "ot",
     "time": "2019-06-22 12:30:00Z",
     "result": "",
-    "cricinfo": "1144511"
+    "cricinfo": "1144511",
+    "winner": "1"
   },
   {
     "id": "29",
@@ -267,7 +296,8 @@
     "stadium": "ll",
     "time": "2019-06-23 09:30:00Z",
     "result": "",
-    "cricinfo": "1144512"
+    "cricinfo": "1144512",
+    "winner": "1"
   },
   {
     "id": "30",
@@ -276,7 +306,8 @@
     "stadium": "rb",
     "time": "2019-06-24 09:30:00Z",
     "result": "",
-    "cricinfo": "1144513"
+    "cricinfo": "1144513",
+    "winner": "1"
   },
   {
     "id": "31",
@@ -285,7 +316,8 @@
     "stadium": "ll",
     "time": "2019-06-25 09:30:00Z",
     "result": "",
-    "cricinfo": "1144514"
+    "cricinfo": "1144514",
+    "winner": "1"
   },
   {
     "id": "32",
@@ -294,7 +326,8 @@
     "stadium": "eb",
     "time": "2019-06-26 09:30:00Z",
     "result": "",
-    "cricinfo": "1144515"
+    "cricinfo": "1144515",
+    "winner": "1"
   },
   {
     "id": "33",
@@ -303,7 +336,8 @@
     "stadium": "ot",
     "time": "2019-06-27 09:30:00Z",
     "result": "",
-    "cricinfo": "1144516"
+    "cricinfo": "1144516",
+    "winner": "1"
   },
   {
     "id": "34",
@@ -312,7 +346,8 @@
     "stadium": "rg",
     "time": "2019-06-28 09:30:00Z",
     "result": "",
-    "cricinfo": "1144517"
+    "cricinfo": "1144517",
+    "winner": "1"
   },
   {
     "id": "35",
@@ -321,7 +356,8 @@
     "stadium": "hl",
     "time": "2019-06-29 09:30:00Z",
     "result": "",
-    "cricinfo": "1144518"
+    "cricinfo": "1144518",
+    "winner": "1"
   },
   {
     "id": "36",
@@ -330,7 +366,8 @@
     "stadium": "ll",
     "time": "2019-06-29 12:30:00Z",
     "result": "",
-    "cricinfo": "1144519"
+    "cricinfo": "1144519",
+    "winner": "1"
   },
   {
     "id": "37",
@@ -339,7 +376,8 @@
     "stadium": "eb",
     "time": "2019-06-30 09:30:00Z",
     "result": "",
-    "cricinfo": "1144520"
+    "cricinfo": "1144520",
+    "winner": "1"
   },
   {
     "id": "38",
@@ -348,7 +386,8 @@
     "stadium": "rg",
     "time": "2019-07-01 09:30:00Z",
     "result": "",
-    "cricinfo": "1144521"
+    "cricinfo": "1144521",
+    "winner": "1"
   },
   {
     "id": "39",
@@ -357,7 +396,8 @@
     "stadium": "eb",
     "time": "2019-07-02 09:30:00Z",
     "result": "",
-    "cricinfo": "1144522"
+    "cricinfo": "1144522",
+    "winner": "1"
   },
   {
     "id": "40",
@@ -366,7 +406,8 @@
     "stadium": "rg",
     "time": "2019-07-03 09:30:00Z",
     "result": "",
-    "cricinfo": "1144523"
+    "cricinfo": "1144523",
+    "winner": "1"
   },
   {
     "id": "41",
@@ -375,7 +416,8 @@
     "stadium": "hl",
     "time": "2019-07-04 09:30:00Z",
     "result": "",
-    "cricinfo": "1144524"
+    "cricinfo": "1144524",
+    "winner": "1"
   },
   {
     "id": "42",
@@ -384,7 +426,8 @@
     "stadium": "ll",
     "time": "2019-07-05 09:30:00Z",
     "result": "",
-    "cricinfo": "1144525"
+    "cricinfo": "1144525",
+    "winner": "1"
   },
   {
     "id": "43",
@@ -393,7 +436,8 @@
     "stadium": "hl",
     "time": "2019-07-06 09:30:00Z",
     "result": "",
-    "cricinfo": "1144526"
+    "cricinfo": "1144526",
+    "winner": "1"
   },
   {
     "id": "44",
@@ -402,7 +446,8 @@
     "stadium": "ot",
     "time": "2019-07-06 12:30:00Z",
     "result": "",
-    "cricinfo": "1144527"
+    "cricinfo": "1144527",
+    "winner": "1"
   },
   {
     "id": "45",
@@ -411,7 +456,8 @@
     "stadium": "ot",
     "time": "2019-07-09 09:30:00Z",
     "result": "",
-    "cricinfo": "1144528"
+    "cricinfo": "1144528",
+    "winner": "1"
   },
   {
     "id": "46",
@@ -420,7 +466,8 @@
     "stadium": "eb",
     "time": "2019-07-11 09:30:00Z",
     "result": "",
-    "cricinfo": "1144529"
+    "cricinfo": "1144529",
+    "winner": "1"
   },
   {
     "id": "47",
@@ -429,6 +476,7 @@
     "stadium": "ll",
     "time": "2019-07-14 09:30:00Z",
     "result": "",
-    "cricinfo": "1144530"
+    "cricinfo": "1144530",
+    "winner": "1"
   }
 ]
